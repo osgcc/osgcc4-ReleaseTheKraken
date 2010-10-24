@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="32" version="2.0">
+<workbenchAdvisor/>
+<window height="760" maximized="true" width="1024" x="157" y="13">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.python.pydev.editor.PythonEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1287907244782" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.python.pydev.editor.PythonEditor" name="Population.py" partName="Population" title="Population" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Population.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Population.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1641" selectionTopPixel="867"/>
+</editor>
+<editor id="org.python.pydev.editor.PythonEditor" name="Game.py" partName="Game" title="Game" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Game.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Game.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1396" selectionTopPixel="663"/>
+</editor>
+<editor id="org.python.pydev.editor.PythonEditor" name="Archer.py" partName="Archer" title="Archer" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Archer.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Archer.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="268"/>
+</editor>
+<editor id="org.python.pydev.editor.PythonEditor" name="Wizard.py" partName="Wizard" title="Wizard" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Wizard.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Wizard.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.python.pydev.editor.PythonEditor" name="Arrow.py" partName="Arrow" title="Arrow" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Arrow.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Arrow.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="273" selectionOffset="1002" selectionTopPixel="489"/>
+</editor>
+<editor id="org.python.pydev.editor.PythonEditor" name="Lightning.py" partName="Lightning" title="Lightning" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Lightning.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Lightning.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1420" selectionTopPixel="489"/>
+</editor>
+<editor id="org.python.pydev.editor.PythonEditor" name="Constants.py" partName="Constants" title="Constants" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Constants.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Constants.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1135" selectionTopPixel="812"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="94" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1287907244782">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+</views>
+<perspectives activePart="org.python.pydev.editor.PythonEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@14b4b3a" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.74960876" ratioLeft="479" ratioRight="160" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@81ca25" ratio="0.7493333" ratioLeft="562" ratioRight="188" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.49895614" ratioLeft="239" ratioRight="240" relationship="4" relative="org.eclipse.ui.internal.ViewStack@81ca25">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/WizardSpawner.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/SwordsmanSpawner.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/PeasantSpawner.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Archer.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/ArcherSpawner.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Building.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Population.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Game.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Population.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Archer.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Wizard.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Arrow.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Lightning.py"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Constants.py"/>
+</editors>
+<item historyLabel="PeasantSpawner" index="2">
+<position info="not_deleted" x="356" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="168" y="0"/>
+</item>
+<item historyLabel="WizardSpawner" index="0">
+<position info="not_deleted" x="171" y="0"/>
+</item>
+<item historyLabel="ArcherSpawner" index="4">
+<position info="not_deleted" x="570" y="0"/>
+</item>
+<item historyLabel="PeasantSpawner" index="2">
+<position info="not_deleted" x="464" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="483" y="0"/>
+</item>
+<item historyLabel="WizardSpawner" index="0">
+<position info="not_deleted" x="394" y="0"/>
+</item>
+<item historyLabel="ArcherSpawner" index="4">
+<position info="not_deleted" x="466" y="0"/>
+</item>
+<item historyLabel="WizardSpawner" index="0">
+<position info="not_deleted" x="492" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="483" y="0"/>
+</item>
+<item historyLabel="PeasantSpawner" index="2">
+<position info="not_deleted" x="718" y="0"/>
+</item>
+<item historyLabel="Archer" index="3">
+<position/>
+</item>
+<item historyLabel="PeasantSpawner" index="2">
+<position info="not_deleted" x="356" y="0"/>
+</item>
+<item historyLabel="Building" index="5">
+<position info="not_deleted" x="270" y="0"/>
+</item>
+<item historyLabel="PeasantSpawner" index="2">
+<position info="not_deleted" x="47" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="370" y="0"/>
+</item>
+<item historyLabel="WizardSpawner" index="0">
+<position info="not_deleted" x="373" y="0"/>
+</item>
+<item historyLabel="ArcherSpawner" index="4">
+<position info="not_deleted" x="521" y="0"/>
+</item>
+<item historyLabel="WizardSpawner" index="0">
+<position info="not_deleted" x="461" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="453" y="0"/>
+</item>
+<item historyLabel="ArcherSpawner" index="4">
+<position info="not_deleted" x="521" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="453" y="0"/>
+</item>
+<item historyLabel="WizardSpawner" index="0">
+<position info="not_deleted" x="554" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="PeasantSpawner" index="2">
+<position info="not_deleted" x="561" y="0"/>
+</item>
+<item historyLabel="Archer" index="3">
+<position info="not_deleted" x="432" y="0"/>
+</item>
+<item historyLabel="PeasantSpawner" index="2">
+<position info="not_deleted" x="514" y="0"/>
+</item>
+<item historyLabel="Archer" index="3">
+<position info="not_deleted" x="432" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="Building" index="5">
+<position info="not_deleted" x="270" y="0"/>
+</item>
+<item historyLabel="SwordsmanSpawner" index="1">
+<position info="not_deleted" x="536" y="0"/>
+</item>
+<item historyLabel="WizardSpawner" index="0">
+<position info="not_deleted" x="554" y="0"/>
+</item>
+<item historyLabel="ArcherSpawner" index="4">
+<position info="not_deleted" x="521" y="0"/>
+</item>
+<item historyLabel="Population" index="6">
+<position info="not_deleted" x="1977" y="90"/>
+</item>
+<item historyLabel="Game" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Population" index="8">
+<position info="not_deleted" x="2248" y="0"/>
+</item>
+<item historyLabel="Game" index="7">
+<position info="not_deleted" x="1396" y="0"/>
+</item>
+<item historyLabel="Archer" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Wizard" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Archer" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Arrow" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Lightning" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Arrow" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Lightning" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Arrow" index="11">
+<position info="not_deleted" x="1002" y="273"/>
+</item>
+<item historyLabel="Lightning" index="12">
+<position info="not_deleted" x="1420" y="0"/>
+</item>
+<item historyLabel="Archer" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Wizard" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Constants" index="13">
+<position info="not_deleted" x="1135" y="0"/>
+</item>
+<item active="true" historyLabel="Population" index="8">
+<position info="not_deleted" x="1641" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Constants.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Constants.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Constants.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Lightning.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Lightning.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Lightning.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Arrow.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Arrow.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Arrow.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Wizard.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Wizard.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Wizard.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Archer.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Archer.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Archer.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Game.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Game.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Game.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Population.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Population.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Population.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="Archer.pyc" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Archer.pyc">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Archer.pyc"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Building.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Building.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Building.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="PeasantSpawner.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\PeasantSpawner.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/PeasantSpawner.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="SwordsmanSpawner.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\SwordsmanSpawner.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/SwordsmanSpawner.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="SwordsmanSpawner.pyc" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\SwordsmanSpawner.pyc">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/SwordsmanSpawner.pyc"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="WizardSpawner.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\WizardSpawner.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/WizardSpawner.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="ArcherSpawner.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\ArcherSpawner.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/ArcherSpawner.py"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="Swordsman.py" tooltip="C:\Users\Tim\My Dropbox\OSGCC\game\src\Swordsman.py">
+<persistable uri="file:/C:/Users/Tim/My%20Dropbox/OSGCC/game/src/Swordsman.py"/>
+</file>
+</mruList>
+</workbench>
